@@ -98,19 +98,19 @@ img {
     list-style: none;
     position: fixed;
     top: 10px;
-    right: 25px;
+    right: 20px;
     z-index: 10;
     cursor: pointer;
 }
 
 .link {
-    float: left;
+    float: right;
     color: azure;
     padding-left: 25px;
     padding-right: 25px;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-size: 20px;
+    font-size: 18px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
@@ -128,6 +128,15 @@ img {
     background: linear-gradient(#f21707 0%, #ff9305 20%, #e7f20f 40%, #04d90b 60%, #0af0e8 80%, #0a0afa 100%);
     text-align: center;
     padding-top: 60px;
+}
+
+#music {
+    background: linear-gradient(#1E3163 0%, #2D46B9 50%, #F037A5 100%);
+    text-align: center;
+    padding top: 50px;
+     
+.disable-select {
+    user-select: none;
 }
 
 
