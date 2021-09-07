@@ -58,24 +58,27 @@ img {
 #badminton {
     padding-top: 30px;
     background: linear-gradient(#7e02d1 0%, #a831f7 50%, #be6ff21 100%);
+    width: auto;
 }
 
 #inspiration {
     background: linear-gradient(#05ed10 0%, #77f77d 50%, #adf7b1 100%);
     padding-top: 30px;
     text-align: center;
+    width: auto;
 }
 
 #others {
     background: linear-gradient(#8b05eb 0%, #f73bcb 100%);
     padding-top: 30px;
+    width: auto;
 }
 
 #frontpage {
     position: absolute;
     background: linear-gradient(#db9004 0%, #f2f213 100%);
     height: 700px;
-    width: 100%;
+    width: 100%, auto;
     top: 0;
     bottom: 0;
     left: 0;
