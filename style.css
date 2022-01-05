@@ -133,6 +133,10 @@ img {
     padding-top: 60px;
 }
 
+.gameImg {
+    transform: scale(0.9);
+}
+
 #music {
     background: linear-gradient(#2D46B9 0%, #F037A5 100%);
     text-align: center;
