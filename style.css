@@ -133,7 +133,7 @@ img {
     padding-top: 60px;
 }
 
-.gameImg.hover {
+.gameImg:hover {
     transform: scale(0.9);
 }
 
